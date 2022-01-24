@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+https://dsamuelson.github.io/Horiseon-landing-page/#social-media-marketing
+
 Changed the non-semantic div element in the header to the "header" element
 
 Adjusted the div element for navigation to "nav"
@@ -19,3 +21,9 @@ adjusted the sections of the CSS styles sheet so that the info section is styled
 added section labels in comments in the index
 
 made the links in the nav bar work for the articles in the info section
+
+depending on the zoom there is a change in the alignment of the bottom sections which could explain any difference for this from the mockup
+
+The following screenshot is of the page base under a 80% zoom:
+
+![screenshot of the webpage that has been zoomed out showing the difference in alignment of the bottom depending on zoom.](./assets/images/Screen Shot 2022-01-23 at 9.14.20 PM.png)
