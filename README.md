@@ -15,3 +15,7 @@ combined the search engine optimization, the Online Reputation Management, and t
 adjusted indentation in the index.html to make it easier to see which elements were nested within which elements
 
 adjusted the sections of the CSS styles sheet so that the info section is styled prior to the benefits section which follows the loading scheme
+
+added section labels in comments in the index
+
+made the links in the nav bar work for the articles in the info section
