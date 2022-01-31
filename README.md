@@ -26,4 +26,4 @@ depending on the zoom there is a change in the alignment of the bottom sections 
 
 The following screenshot is of the page base under a 80% zoom:
 
-![screenshot of the webpage that has been zoomed out showing the difference in alignment of the bottom depending on zoom.](./assets/images/Screen Shot 2022-01-23 at 9.14.20 PM.png)
+![screenshot_of_the_webpage_that_has_been_zoomed_out_showing_the_difference_in_alignment_of_the_bottom_depending_on_zoom.](./assets/images/Screen\ Shot\ 2022-01-23\ at\ 9.14.20 PM.png)
