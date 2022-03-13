@@ -24,6 +24,6 @@ made the links in the nav bar work for the articles in the info section
 
 depending on the zoom there is a change in the alignment of the bottom sections which could explain any difference for this from the mockup
 
-The following screenshot is of the page base under a 80% zoom:
+The following screenshot is of the page base under a 80% zoom
 
 ![screenshot_of_the_webpage_that_has_been_zoomed_out_showing_the_difference_in_alignment_of_the_bottom_depending_on_zoom.](./assets/images/Screen\ Shot\ 2022-01-23\ at\ 9.14.20 PM.png)
