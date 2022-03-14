@@ -1,9 +1,15 @@
 # Horiseon-landing-page
 Horiseon optimized landing page
 
-## Code Refactor With Starter Code
+## Page URL
 
 https://dsamuelson.github.io/Horiseon-landing-page/#social-media-marketing
+
+## Repo URL
+
+https://dsamuelson.github.io/Horiseon-landing-page/#social-media-marketing
+## Code Refactor With Starter Code
+
 
 Changed the non-semantic div element in the header to the "header" element
 
@@ -29,4 +35,4 @@ depending on the zoom there is a change in the alignment of the bottom sections 
 
 The following screenshot is of the page base under a 80% zoom
 
-![screenshot_of_the_webpage_that_has_been_zoomed_out_showing_the_difference_in_alignment_of_the_bottom_depending_on_zoom](./assets/images/Screen\ Shot\ 2022-01-23\ at\ 9.14.20 PM.png)
+![Horiseon Landing page](./assets/images/Screen%20Shot%202022-01-23%20at%209.14.20%20PM.png)
